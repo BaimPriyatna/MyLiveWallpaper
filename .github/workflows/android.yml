@@ -24,3 +24,8 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
+    - name: Upload debug APK
+      uses: actions/upload-artifact@v3
+      with:
+        name: MyLiveWallpaper.apk
+        path: app/build/outputs/apk/debug/app-debug.apk

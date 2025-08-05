@@ -1,7 +1,6 @@
 📱 MyLiveWallpaper
 
-MyLiveWallpaper adalah aplikasi Android Live Wallpaper buatan sendiri yang ringan, responsive, dan mudah untuk dikustomisasi. Dirancang menggunakan Java dan Android Studio (bisa juga dikembangkan melalui Termux), aplikasi ini dapat digunakan sebagai dasar untuk membuat wallpaper dinamis di perangkat Android.
-
+MyLiveWallpaper adalah aplikasi Android Live Wallpaper buatan sendiri yang ringan, responsive, dan mudah untuk dikustomisasi.
 
 ---
 
